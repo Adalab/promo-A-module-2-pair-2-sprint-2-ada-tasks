@@ -1,0 +1,9 @@
+.boxcontainer {
+    display: flex;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
